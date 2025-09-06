@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Mago-RM
-- 👀 I’m interested in NLP, ML, Mobile App Dev, AI.
+- 👀 I’m interested in NLP, ML, Mobile App Dev and AI.
 - 🌱 Currently learning cloud deployment & AI/ML tools.
 - 💞️ I’m looking to collaborate on AI / Machine Learning Projects
 - ⚡ Favorite motto: Code, coffee, repeat. ☕
 - ⚡ Fun fact: I have two cats. Shout out to August 🐱 and 🐱 Chiri!!!
+- 📫 How to reach me: [rincon.mago1@gmail.com](mailto:rincon.mago1@gmail.com)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
